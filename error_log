@@ -1,0 +1,5 @@
+[17-Apr-2016 22:39:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/pcratsco/public_html/vendor/doctrine/lexer/lib/Doctrine/Common/Lexer/AbstractLexer.php on line 266
+[17-Apr-2016 22:41:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/pcratsco/public_html/core/lib/Drupal/Core/Entity/Entity/EntityFormDisplay.php on line 107
+[17-Apr-2016 22:41:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/pcratsco/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php on line 1007
+[17-Apr-2016 23:20:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 248 bytes) in /home/pcratsco/public_html/core/modules/image/src/Plugin/Field/FieldType/ImageItem.php on line 50
+[17-Apr-2016 23:31:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 97 bytes) in /home/pcratsco/public_html/core/lib/Drupal/Core/Database/Statement.php on line 64
